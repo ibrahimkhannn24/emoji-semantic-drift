@@ -1,0 +1,14 @@
+# large or private files
+data/raw/
+results/models/
+archive/
+/slides/
+/reports/
+research_notes/
+*.pdf
+*.docx
+*.pptx
+DSC3013_course_context.md
+__pycache__/
+*.pyc
+data/labels/human_check_*.csv

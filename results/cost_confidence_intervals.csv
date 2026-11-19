@@ -1,0 +1,37 @@
+community,item,n,cost,ci_low,ci_high,significant
+teenagers,❤,50,-4.0,-14.0,6.0,False
+teenagers,💀,50,-8.0,-18.0,0.0,False
+teenagers,🔥,50,-22.0,-36.0,-8.0,True
+teenagers,🗣,50,-6.0,-18.0,6.0,False
+teenagers,🗿,47,2.1,0.0,6.4,False
+teenagers,😂,50,-4.0,-20.0,12.0,False
+teenagers,😩,39,5.1,-12.8,23.1,False
+teenagers,😭,50,-20.0,-38.0,-2.0,True
+teenagers,🙂,27,0.0,-18.5,18.5,False
+teenagers,🙏,50,8.0,-2.0,18.0,False
+teenagers,🤓,50,-14.0,-36.0,8.0,False
+teenagers,🤡,20,0.0,-25.0,25.0,False
+teenagers,🥀,50,-4.0,-18.0,10.0,False
+teenagers,🥲,50,4.0,0.0,10.0,False
+teenagers,🫠,32,-9.4,-18.8,0.0,False
+teenagers,🫵,50,2.0,-6.0,10.0,False
+teenagers,ALL emoji,717,-4.7,-8.2,-1.3,True
+memes,❤,38,2.6,-5.3,13.2,False
+memes,💀,50,4.0,-4.0,12.0,False
+memes,🔥,50,2.0,-14.0,18.0,False
+memes,🗣,33,0.0,-9.1,9.1,False
+memes,🗿,41,2.4,-7.3,14.6,False
+memes,😂,50,6.0,-10.0,20.0,False
+memes,😩,39,25.6,7.7,41.0,True
+memes,😭,50,-16.0,-34.0,2.0,False
+memes,🙂,26,7.7,-11.5,26.9,False
+memes,🙏,50,0.0,-12.0,12.0,False
+memes,🤓,50,14.0,-6.0,34.0,False
+memes,🤡,20,0.0,0.0,0.0,False
+memes,🥀,34,5.9,-5.9,17.6,False
+memes,🥲,50,0.0,-8.0,8.0,False
+memes,🫠,20,0.0,0.0,0.0,False
+memes,ALL emoji,617,3.4,-0.2,7.0,False
+pooled,😭,100,-18.0,-31.0,-5.0,True
+pooled,🤓,100,0.0,-15.0,14.0,False
+pooled,🔥,100,-10.0,-21.0,1.0,False

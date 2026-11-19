@@ -1,0 +1,4 @@
+measure,young,older,diff,ci_low,ci_high
+literal,42.8,51.09,8.29,2.8,13.78
+value,0.18,0.25,0.08,-0.07,0.22
+cost,-5.6,-0.18,5.42,-2.54,13.6
